@@ -1,0 +1,1 @@
+window.checkAdBlock = async () => false;
